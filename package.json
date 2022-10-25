@@ -1,0 +1,22 @@
+{
+  "name": "work-day-scheduler-api",
+  "version": "1.0.0",
+  "description": "Calender Application that helps users schedule daily work tasks, for every hour of the day. Browser ran web application, with dynamic updatin",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-ccool/Work-Day-Scheduler-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-ccool/Work-Day-Scheduler-API/issues"
+  },
+  "homepage": "https://github.com/m-ccool/Work-Day-Scheduler-API#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

@@ -58,14 +58,37 @@ textarea{
 }
 
 .saveBtn {
+  opacity: .7;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  transition: all .3s ease-in-out;
 }
 
-.saveBtn i:hover {
+.saveBtn i:hover, .clearBtn i:hover {
+  transform: scale(1.5);
+  opacity: 1;
   font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
+.clear-tasks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding: 1rem 5rem 3rem 5rem;
+}
+
+.clearBtn {
+  opacity: .7;
+  border-radius: 15px;
+  border: .25px solid rgba(0, 0, 0, 0.5);
+  background-color: rgb(106, 110, 114);
+  font-size: 1.5rem;
+  color: white;
   transition: all .3s ease-in-out;
 }
