@@ -5,7 +5,7 @@ Calender Application that helps users schedule daily work tasks, for every hour 
 This web applbication uses HTML, CSS, powered by JQuery & Moment.js library for date & time handling.
 
 ## DEPLOYED APPLICATION LINK
-**[🖥️ Deployed Application 🖱️](https://github.com/m-ccool)**
+**[🖥️ Deployed Application 🖱️](https://m-ccool.github.io/Work-Day-Scheduler-API/)**
 
 
 
