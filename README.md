@@ -1,6 +1,13 @@
 # Work-Day-Scheduler
 Calender Application that helps users schedule daily work tasks, for every hour of the day. Browser ran web application, with dynamic updatin
 
+## Utility
+- Create Tasks within fields
+- Action Browser modal nofitifications 
+- Auto-detect time for past/future/current hour
+- Marks Hour fields color-marked
+- Delete all fields with button click
+
 ## FRAMEWORK & DEVELOPMENT
 This web applbication uses HTML, CSS, powered by JQuery & Moment.js library for date & time handling.
 
